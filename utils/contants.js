@@ -1,0 +1,12 @@
+const CSV_DATA_LOCATION = "/data/MOCK_DATA.csv";
+const CSV_OUTPUT_LOCATION = "/output/";
+
+const MALE = 'male';
+const FEMALE = 'female';
+
+const MALE_OUTPUT_LOCATION = 'males.csv';
+const FEMALE_OUTPUT_LOCATION = 'females.csv';
+
+const DATABASE = { MALE_RECORDS: [], FEMALE_RECORDS: [] };
+
+module.exports = { CSV_DATA_LOCATION, CSV_OUTPUT_LOCATION, DATABASE, MALE_OUTPUT_LOCATION, FEMALE_OUTPUT_LOCATION, MALE, FEMALE }

@@ -1,0 +1,24 @@
+{
+  "name": "ejara-code-test",
+  "version": "1.0.0",
+  "description": "A simple program to filter csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Real-Music/ejara-code-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Real-Music/ejara-code-test/issues"
+  },
+  "homepage": "https://github.com/Real-Music/ejara-code-test#readme",
+  "dependencies": {
+    "csv-parse": "^4.15.3",
+    "csv-stringify": "^5.6.2"
+  }
+}
